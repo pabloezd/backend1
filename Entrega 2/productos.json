@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Hojas",
+        "price": "126",
+        "thumbnail": "https://w7.pngwing.com/pngs/604/517/png-transparent-paper-computer-icons-stack-papers-miscellaneous-angle-rectangle-thumbnail.png",
+        "id": 1
+    },
+    {
+        "title": "Pen",
+        "price": "128.45",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pen_1.svg",
+        "id": 2
+    },
+    {
+        "title": "Reglas",
+        "price": "234.57",
+        "thumbnail": "https://e7.pngegg.com/pngimages/598/354/png-clipart-computer-icons-ruler-icon-design-ruller-web-design-text-thumbnail.png",
+        "id": 3
+    }
+    
+]
